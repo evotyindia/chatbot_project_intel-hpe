@@ -70,8 +70,8 @@ An intelligent chatbot powered by Google Gemini AI that helps prospective studen
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd UAC
+git clone https://github.com/evotyindia/chatbot_project_intel-hpe
+cd chatbot_project_intel-hpe
 
 # 2. Install dependencies
 pip install -r requirements.txt
