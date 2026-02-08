@@ -595,7 +595,7 @@ This project is licensed under the MIT License.
 For issues or questions:
 
 - **Create an issue** on GitHub
-- **Email**: support@university-chatbot.dev (example)
+- **Email**: aryan@evotyindia.me
 - **Documentation**: See this README and code comments
 
 ---
@@ -642,6 +642,5 @@ Potential improvements:
 
 ---
 
-**Built with ❤️ for students navigating university admissions**
 
 *Last Updated: February 2025*
