@@ -1,0 +1,235 @@
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ========================================
+# Environment Variables & API Keys
+# ========================================
+.env
+.env.local
+.env.*.local
+*.key
+secrets/
+api_keys/
+
+# NOTE: .env.example is tracked (template file)
+
+# ========================================
+# Logs
+# ========================================
+logs/
+*.log
+log/
+chatbot.log
+
+# ========================================
+# Cache
+# ========================================
+cache/
+*.cache
+.cache/
+__pycache__/
+web_cache*
+
+# ========================================
+# IDE & Editors
+# ========================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.*.swp
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ========================================
+# OS Specific
+# ========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+
+# ========================================
+# Project Specific - Backend
+# ========================================
+# Temporary files
+tmpclaude*
+*.tmp
+*.temp
+.tmp/
+
+# Database (if you add one later)
+*.db
+*.sqlite
+*.sqlite3
+
+# Flask session
+flask_session/
+
+# ========================================
+# Project Specific - Frontend
+# ========================================
+# Dependencies (if you add npm later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# ========================================
+# Testing & Development Files
+# ========================================
+# Test outputs
+test_results/
+.coverage
+htmlcov/
+
+# Development test files (optional - uncomment if you don't want to track)
+# test_*.html
+# test_*.py
+
+# ========================================
+# Data Files
+# ========================================
+# Sample data is tracked in college_data/
+# But ignore any user-uploaded or generated data
+college_data/uploads/
+college_data/generated/
+college_data/*.backup
+
+# Ignore large files
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+
+# ========================================
+# Documentation Builds
+# ========================================
+docs/_build/
+site/
+
+# ========================================
+# Deployment
+# ========================================
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# CI/CD
+.github/workflows/secrets.yml
+
+# ========================================
+# Misc
+# ========================================
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Compressed files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# ========================================
+# Project Notes
+# ========================================
+# Keep important markdown files tracked:
+# - README.md (tracked)
+# - PROJECT_STATUS.md (tracked)
+# - QUICKSTART.md (tracked)
+# - READY_TO_USE.md (tracked)
+
+# But ignore personal notes
+notes.txt
+TODO.txt
+PERSONAL_NOTES.md
