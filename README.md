@@ -152,7 +152,7 @@ Before you begin, ensure you have:
 
 ```bash
 
-git clone [<repository-url>](https://github.com/evotyindia/chatbot_project_intel-hpe)
+git clone https://github.com/evotyindia/chatbot_project_intel-hpe
 cd chatbot_project_intel-hpe
 
 ```
