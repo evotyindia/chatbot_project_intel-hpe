@@ -151,12 +151,10 @@ Before you begin, ensure you have:
 ### 1. Clone or Download the Project
 
 ```bash
-# If using git:
-git clone <repository-url>
-cd UAC
 
-# Or simply navigate to the project directory if already downloaded:
-cd N:\Intel\Project\adm\UAC
+git clone [<repository-url>](https://github.com/evotyindia/chatbot_project_intel-hpe)
+cd chatbot_project_intel-hpe
+
 ```
 
 ### 2. Create Virtual Environment (Recommended)
